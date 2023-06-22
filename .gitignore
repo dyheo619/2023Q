@@ -1,2 +1,4 @@
 materials/
 .ipynb_checkpoints/
+*.npy
+*.png
